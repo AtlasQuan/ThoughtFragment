@@ -1,10 +1,10 @@
 
 #  （译）端上的自由：Web2.0时代的软件自由，隐私，安全和云计算 
 
-##  ——于2010年2月5日Eben Moglen在互联网协会纽约分会的演讲
+###  ——于2010年2月5日Eben Moglen在互联网协会纽约分会的演讲
 
->   Computer programmers have a responsibility to decentralize power in the world.
->   ——Michiel B. de Jong
+>   **Computer programmers have a responsibility to decentralize power in the world.
+>   ——Michiel B. de Jong**
 
                                                                                  
 原文链接：https://www.softwarefreedom.org/events/2010/isoc-ny/FreedomInTheCloud-transcript.html
